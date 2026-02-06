@@ -1,0 +1,13 @@
+# Ignorar pastas geradas pelo Python
+__pycache__/
+*.py[cod]
+
+# Ignorar dados sensíveis e privados da prefeitura
+Anexos/
+*.csv
+*.log
+
+# Ignorar arquivos de configuração local
+.env
+.vscode/
+.idea/

@@ -1,0 +1,2 @@
+# Biblioteca para interface com a API MAPI do Outlook no Windows
+pywin32==306
