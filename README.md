@@ -12,7 +12,7 @@ Uma solução de automação em Python desenvolvida para otimizar o fluxo de con
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Python 3.x**
+- **Python 3.9.13**
 - **pywin32 (MAPI):** Para comunicação nativa com a API do Microsoft Outlook.
 - **Regular Expressions (re):** Para parsing de texto estruturado e não estruturado.
 - **Pathlib:** Para manipulação de diretórios e segurança de caminhos de arquivo.
